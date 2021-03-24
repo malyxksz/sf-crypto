@@ -2,6 +2,7 @@
   "name": "malyxksz/sf-crypto",
   "description": "",
   "license": "proprietary",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "malyxksz",
