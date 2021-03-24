@@ -1,0 +1,24 @@
+{
+  "name": "sf-pack/sf-crypto",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "malyxksz",
+      "email": "tomasz.gil1998@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SF_Crypto\\": "source/",
+      "SF_Crypto\\Exceptions\\": "source/exceptions/",
+      "SF_Crypto\\Request\\": "source/request/",
+      "SF_Crypto\\Password\\": "source/password/"
+    }
+  },
+  "require": {
+    "ext-openssl": "*",
+    "ext-mbstring": "*"
+  }
+}
