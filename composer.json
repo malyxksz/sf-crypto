@@ -1,7 +1,6 @@
 {
   "name": "sf-pack/sf-crypto",
   "description": "",
-  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
@@ -18,6 +17,7 @@
     }
   },
   "require": {
+    "php": ">=7.0",
     "ext-openssl": "*",
     "ext-mbstring": "*"
   }
