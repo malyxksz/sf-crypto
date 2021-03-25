@@ -9,3 +9,7 @@ $ composer require "malyxksz/sf-crypto"
 ```
 
 ## Usage
+
+## License
+
+The MIT License (MIT). Please see [License File](https://github.com/malyxksz/sf-crypto/blob/main/LICENSE.md) for more information.
